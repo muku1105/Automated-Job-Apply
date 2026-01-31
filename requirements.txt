@@ -1,0 +1,7 @@
+requests
+playwright
+scikit-learn
+nltk
+pdfminer.six
+pandas
+python-dotenv

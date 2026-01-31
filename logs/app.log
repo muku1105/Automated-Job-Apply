@@ -1,0 +1,120 @@
+2026-01-30 23:12:28,404 - root - INFO - Logging setup complete.
+2026-01-30 23:12:28,414 - root - INFO - Starting Auto Job Applier...
+2026-01-30 23:18:17,992 - root - INFO - Logging setup complete.
+2026-01-30 23:18:17,992 - root - INFO - Starting Auto Job Applier...
+2026-01-30 23:18:18,013 - root - INFO - Found 3 jobs.
+2026-01-30 23:18:18,030 - root - INFO - Evaluated 'Senior Python Developer' at Innovate AI: Score 18.66
+2026-01-30 23:18:18,038 - root - INFO - Evaluated 'Marketing Manager' at Creative Agency: Score 1.07
+2026-01-30 23:18:18,044 - root - INFO - Evaluated 'Backend Engineer (Python)' at Data Systems: Score 13.55
+2026-01-30 23:18:18,048 - root - INFO - Job processing complete.
+2026-01-30 23:18:44,024 - root - INFO - Logging setup complete.
+2026-01-30 23:18:44,025 - root - INFO - Starting Auto Job Applier...
+2026-01-30 23:18:44,039 - root - INFO - Found 3 jobs.
+2026-01-30 23:18:44,040 - root - INFO - Skipping already processed job: Senior Python Developer
+2026-01-30 23:18:44,041 - root - INFO - Skipping already processed job: Marketing Manager
+2026-01-30 23:18:44,041 - root - INFO - Skipping already processed job: Backend Engineer (Python)
+2026-01-30 23:18:44,041 - root - INFO - Job processing complete.
+2026-01-31 00:01:42,744 - root - INFO - Logging setup complete.
+2026-01-31 00:01:42,746 - root - INFO - Starting Auto Job Applier...
+2026-01-31 00:01:45,159 - root - INFO - Found 100 jobs.
+2026-01-31 00:01:45,175 - root - INFO - Evaluated 'Specialista Tecnologie Laboratorio Chimico' at Terna S.p.A.: Score 2.48
+2026-01-31 00:01:45,180 - root - INFO - Skipping already processed job: Field Sales Executive
+2026-01-31 00:01:45,181 - root - INFO - Skipping already processed job: Intern
+2026-01-31 00:01:45,182 - root - INFO - Skipping already processed job: CAE Engineer
+2026-01-31 00:01:45,182 - root - INFO - Skipping already processed job: Miarbeiter (gn) Warenein- und -ausgang
+2026-01-31 00:01:45,183 - root - INFO - Skipping already processed job: Lean Manager (gn)
+2026-01-31 00:01:45,183 - root - INFO - Skipping already processed job: Mechaniker (gn) im Anlagenbau
+2026-01-31 00:01:45,184 - root - INFO - Skipping already processed job: Montage Mechaniker (gn)
+2026-01-31 00:01:45,184 - root - INFO - Skipping already processed job: Resource Specialist, Utility Arborist
+2026-01-31 00:01:45,184 - root - INFO - Skipping already processed job: Office Management und Assistent Geschäftsführung Marketing, Vertrieb
+2026-01-31 00:01:45,185 - root - INFO - Skipping already processed job: Internship - Trade & Operative Marketing Prestige
+2026-01-31 00:01:45,185 - root - INFO - Skipping already processed job: Brand Communication Specialist
+2026-01-31 00:01:45,185 - root - INFO - Skipping already processed job: Projektmanager (m/w/d) Sales Development
+2026-01-31 00:01:45,186 - root - INFO - Skipping already processed job: Application Manager II
+2026-01-31 00:01:45,186 - root - INFO - Skipping already processed job: Laboratory Engineer
+2026-01-31 00:01:45,186 - root - INFO - Skipping already processed job: Assistant Plant Controller SLP Mecha
+2026-01-31 00:01:45,187 - root - INFO - Skipping already processed job: Maintenance Engineer
+2026-01-31 00:01:45,187 - root - INFO - Skipping already processed job: Plant SQA
+2026-01-31 00:01:45,187 - root - INFO - Skipping already processed job: Program Manufacturing Leader
+2026-01-31 00:01:45,188 - root - INFO - Skipping already processed job: Planisware Developer
+2026-01-31 00:01:45,188 - root - INFO - Skipping already processed job: Innovation Trainee
+2026-01-31 00:01:45,188 - root - INFO - Skipping already processed job: Planisware Developer
+2026-01-31 00:01:45,189 - root - INFO - Skipping already processed job: Planisware Developer
+2026-01-31 00:01:45,189 - root - INFO - Skipping already processed job: RESPONSABLE POINT DE VENTE F/H
+2026-01-31 00:01:45,189 - root - INFO - Skipping already processed job: Talent Agent
+2026-01-31 00:01:45,190 - root - INFO - Skipping already processed job: Sr. Full Stack .NET Developer II (6369)
+2026-01-31 00:01:45,190 - root - INFO - Skipping already processed job: Senior Systems Engineer - Netsuite Developer
+2026-01-31 00:01:45,191 - root - INFO - Skipping already processed job: Internal Communications Coordinator, Engineering
+2026-01-31 00:01:45,191 - root - INFO - Skipping already processed job: Data & Technology Program Manager
+2026-01-31 00:01:45,192 - root - INFO - Skipping already processed job: Senior Product Manager - Ad Experiences
+2026-01-31 00:01:45,192 - root - INFO - Skipping already processed job: Senior Product Manager - Ad Experiences
+2026-01-31 00:01:45,193 - root - INFO - Skipping already processed job: Senior Product Manager - Ad Experiences
+2026-01-31 00:01:45,193 - root - INFO - Skipping already processed job: Director, Facilities Engineering
+2026-01-31 00:01:45,194 - root - INFO - Skipping already processed job: Associate M&A - APAC
+2026-01-31 00:01:45,194 - root - INFO - Skipping already processed job: Graphic Designer
+2026-01-31 00:01:45,195 - root - INFO - Skipping already processed job: Senior Growth Operations Analyst
+2026-01-31 00:01:45,195 - root - INFO - Skipping already processed job: Business System Analyst
+2026-01-31 00:01:45,195 - root - INFO - Skipping already processed job: Retail Supervisor
+2026-01-31 00:01:45,195 - root - INFO - Skipping already processed job: Associate Consultant - Summit, New Jersey
+2026-01-31 00:01:45,195 - root - INFO - Skipping already processed job: Project Manager, Integrated Labs
+2026-01-31 00:01:45,196 - root - INFO - Skipping already processed job: Project Manager
+2026-01-31 00:01:45,196 - root - INFO - Skipping already processed job: Sales Engineering Manager, Cloud Product Line Specialists
+2026-01-31 00:01:45,196 - root - INFO - Skipping already processed job: Senior Enterprise Customer Success Manager
+2026-01-31 00:01:45,196 - root - INFO - Skipping already processed job: Account Lead, Paid Social Media
+2026-01-31 00:01:45,197 - root - INFO - Skipping already processed job: Senior Machine Learning Engineer II
+2026-01-31 00:01:45,197 - root - INFO - Skipping already processed job: Manager in Training - Hotel Indigo
+2026-01-31 00:01:45,197 - root - INFO - Skipping already processed job: Senior Program Manager
+2026-01-31 00:01:45,198 - root - INFO - Skipping already processed job: Program Manager II
+2026-01-31 00:01:45,198 - root - INFO - Skipping already processed job: Senior Manager Growth Marketing, Paid Social, Canada
+2026-01-31 00:01:45,200 - root - INFO - Skipping already processed job: 4.5 Field Application Engineer - Singapore
+2026-01-31 00:01:45,200 - root - INFO - Skipping already processed job: Senior Manager Growth Marketing, Paid Search, Canada
+2026-01-31 00:01:45,201 - root - INFO - Skipping already processed job: 2026 UK Graduate Software Engineering: Transport
+2026-01-31 00:01:45,201 - root - INFO - Skipping already processed job: Assistant Civil Engineer
+2026-01-31 00:01:45,201 - root - INFO - Skipping already processed job: Working Capital and Accounting Coordinator
+2026-01-31 00:01:45,202 - root - INFO - Skipping already processed job: Associate, Compliance
+2026-01-31 00:01:45,202 - root - INFO - Skipping already processed job: Customer Success Specialist - Product Specialist
+2026-01-31 00:01:45,202 - root - INFO - Skipping already processed job: Influencer Sales Account Executive - Beauty
+2026-01-31 00:01:45,203 - root - INFO - Skipping already processed job: Data Scientist I
+2026-01-31 00:01:45,203 - root - INFO - Skipping already processed job: Country Community Manager
+2026-01-31 00:01:45,203 - root - INFO - Skipping already processed job: Server
+2026-01-31 00:01:45,203 - root - INFO - Skipping already processed job: Senior Manager, Brand Operations
+2026-01-31 00:01:45,203 - root - INFO - Skipping already processed job: Corporate Counsel
+2026-01-31 00:01:45,204 - root - INFO - Skipping already processed job: Underwriter - Small Commercial
+2026-01-31 00:01:45,204 - root - INFO - Skipping already processed job: Corporate, Senior Account Executive - SE
+2026-01-31 00:01:45,204 - root - INFO - Skipping already processed job: Senior Counsel, Commercial & Real Estate
+2026-01-31 00:01:45,204 - root - INFO - Skipping already processed job: Customer Success Business Partner, Scaled CS
+2026-01-31 00:01:45,204 - root - INFO - Skipping already processed job: Product Marketing Manager, Solutions
+2026-01-31 00:01:45,205 - root - INFO - Skipping already processed job: Manager, Corporate Sales - SE
+2026-01-31 00:01:45,205 - root - INFO - Skipping already processed job: Senior Utilities Technician
+2026-01-31 00:01:45,205 - root - INFO - Skipping already processed job: Senior Technical Program Manager
+2026-01-31 00:01:45,205 - root - INFO - Skipping already processed job: Network Technician
+2026-01-31 00:01:45,206 - root - INFO - Skipping already processed job: Fuels Process Engineer
+2026-01-31 00:01:45,206 - root - INFO - Skipping already processed job: Senior Software Development Engineer in Test (SDET)  - AI Cluster
+2026-01-31 00:01:45,207 - root - INFO - Skipping already processed job: Senior Talent Acquisition Partner
+2026-01-31 00:01:45,207 - root - INFO - Skipping already processed job: Viltu leiða stafræna þróun og upplýsingatækni?
+2026-01-31 00:01:45,207 - root - INFO - Skipping already processed job: Fræðslu- og lýðheilsusvið: Sálfræðingur í skólaþjónustu
+2026-01-31 00:01:45,208 - root - INFO - Skipping already processed job: Sumarstörf: Sundlaugar Akureyrar
+2026-01-31 00:01:45,208 - root - INFO - Skipping already processed job: Sumarstarf: Hópstjórar fyrir sumarnámskeið Kappa
+2026-01-31 00:01:45,208 - root - INFO - Skipping already processed job: Hópstjóri innheimtu
+2026-01-31 00:01:45,208 - root - INFO - Skipping already processed job: Station Agent - Reykjavík Airport (Summer 2026)
+2026-01-31 00:01:45,209 - root - INFO - Skipping already processed job: Kanntu að grilla?
+2026-01-31 00:01:45,209 - root - INFO - Skipping already processed job: Læknanemar- sumarstarf í heimahjúkrun
+2026-01-31 00:01:45,209 - root - INFO - Skipping already processed job: Hefur þú áhuga á geðheilbrigðismálum? Spennandi starf á íbúðakjarna fyrir geðfatlaða
+2026-01-31 00:01:45,209 - root - INFO - Skipping already processed job: Skemmtilegt starf á Íbúðakjarna í Breiðholti
+2026-01-31 00:01:45,209 - root - INFO - Skipping already processed job: Sumarstarf í heimahjúkrun- tækifæri fyrir sjúkraliðanema
+2026-01-31 00:01:45,210 - root - INFO - Skipping already processed job: Þroskaþjálfi
+2026-01-31 00:01:45,210 - root - INFO - Skipping already processed job: Property Manager - Berkeley  CA (Part-Time)
+2026-01-31 00:01:45,210 - root - INFO - Skipping already processed job: Senior Affiliate Business Development Manager, Germany/Central Europe & Nordics
+2026-01-31 00:01:45,210 - root - INFO - Skipping already processed job: Senior Affiliate Business Development Manager, Germany/Central Europe & Nordics
+2026-01-31 00:01:45,211 - root - INFO - Skipping already processed job: Physical Therapist Assistant, PTA (SIGN ON BONUS!)
+2026-01-31 00:01:45,211 - root - INFO - Skipping already processed job: Thermal Design Engineer
+2026-01-31 00:01:45,211 - root - INFO - Skipping already processed job: Module Designer
+2026-01-31 00:01:45,212 - root - INFO - Skipping already processed job: Speech Language Pathologist, SLP
+2026-01-31 00:01:45,212 - root - INFO - Skipping already processed job: Office Coordinator
+2026-01-31 00:01:45,212 - root - INFO - Skipping already processed job: Payroll Manager
+2026-01-31 00:01:45,213 - root - INFO - Skipping already processed job: Engineering Manager, Broker Platform Engineering
+2026-01-31 00:01:45,213 - root - INFO - Skipping already processed job: Associate Research Scientist –  Protein Engineering & Library-Based Screening (12-month Contract)
+2026-01-31 00:01:45,213 - root - INFO - Skipping already processed job: Senior Director, Clinical Operations & Practice
+2026-01-31 00:01:45,214 - root - INFO - Skipping already processed job: Sr. Filmmaker, Post-production focus
+2026-01-31 00:01:45,214 - root - INFO - Skipping already processed job: Sr. Filmmaker, Post-production focus
+2026-01-31 00:01:45,214 - root - INFO - Job processing complete.

@@ -1,0 +1,29 @@
+Jane Doe
+Software Engineer
+Email: jane.doe@example.com
+Phone: (555) 123-4567
+
+Summary
+Experienced Python Developer with a strong background in automation, web scraping, and backend development. Skilled in building scalable applications using Django, Flask, and Fast API. Passionate about AI agents and optimizing workflows.
+
+Skills
+- Programming: Python, JavaScript, SQL, Bash
+- Frameworks: Django, Flask, FastAPI, React
+- Tools: Docker, Kubernetes, Git, Playwright, Selenium
+- Databases: PostgreSQL, SQLite, MongoDB
+- Concepts: REST APIs, CI/CD, Agile, TDD
+
+Experience
+Senior Python Developer | Tech Solutions Inc. | 2020 - Present
+- Led a team of 5 developers to undefined microservices architecture.
+- OPTIMIZED API response times by 40% using Redis caching.
+- Automated daily reporting tasks using Python scripts, saving 10 hours per week.
+- Implemented robust keyless authentication data processing pipelines.
+
+Software Engineer | Alpha Corp | 2017 - 2020
+- Developed and maintained web applications using Django.
+- Collaborated with frontend teams to integrate RESTful APIs.
+- Wrote unit and integration tests to ensure code quality.
+
+Education
+B.S. Computer Science | University of Tech | 2013 - 2017
